@@ -1,2 +1,2 @@
 # python-labs
-Labs for CS41
+Labs for python
